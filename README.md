@@ -7,8 +7,6 @@
 
 <img src="https://user-images.githubusercontent.com/73929840/157161617-b0b211ff-4d38-4df2-866b-2070dfcd97fe.gif" width="25%" alt="video"></img>
 
-<br>
-
 <hr/>
 
 * #### 설치 패키지 🔍
