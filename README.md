@@ -3,9 +3,10 @@
 > ### React Native를 이용한 팀플 지각 방지 앱
 <br>
 
-* #### 시연 영상
+* #### 실행 화면
 
-<img src="https://user-images.githubusercontent.com/73929840/157161617-b0b211ff-4d38-4df2-866b-2070dfcd97fe.gif" width="25%" alt="video"></img>
+https://user-images.githubusercontent.com/73929840/157257155-a9bd6087-20b3-4f04-a125-1af1eea8ff6f.mp4
+
 
 <hr/>
 
